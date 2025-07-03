@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/Guerrilla.png", Guerrilla Radio
+#EXTINF:0,Guerrilla Radio
 http://live.guerrillaradio.ro:8010/guerrilla.aac
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/romania_actualitati.png", Radio Romania-Actualitati
+#EXTINF:0,Radio Romania-Actualitati
 http://89.238.227.6:8008/
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/rockfm.png", Rock FM
+#EXTINF:0,Rock FM
 https://live.rockfm.ro/rockfm.aacp
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/magic.png", Magic FM
+#EXTINF:0,Magic FM
 https://live.magicfm.ro/magicfm.aacp
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/Itsy_Bitsy.png", ItsyBitsy FM
+#EXTINF:0,ItsyBitsy FM
 http://live.itsybitsy.ro:8000/itsybitsy
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/frisky.png", FriskyRadio
+#EXTINF:0,FriskyRadio
 https://stream2.friskyradio.com/frisky_mp3_hi
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/frisky_classic.png", Frisky Classic
+#EXTINF:0,Frisky Classic
 https://stream.classics.friskyradio.com/mp3_low
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/friskychill.png", Frisky Chill
+#EXTINF:0,Frisky Chill
 http://chill.friskyradio.com/friskychill_mp3_high
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/friskydeep.png", Frisky Deep
+#EXTINF:0,Frisky Deep
 http://deep.friskyradio.com/friskydeep_aachi
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/bassdrive.png", BassDrive
+#EXTINF:0,BassDrive
 http://ice.bassdrive.net/stream56
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/powerstation.png", PowerStation
+#EXTINF:0,PowerStation
 https://listen.radioking.com/radio/454916/stream/524027
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/mindeclipse.png", MindEclipse
+#EXTINF:0,MindEclipse
 https://listen.radioking.com/radio/453296/stream/508976
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/mihaiaka/radio_covers/refs/heads/main/loops.png", Loops
+#EXTINF:0,Loops
 https://progressive.ozelip.com/7670/stream
